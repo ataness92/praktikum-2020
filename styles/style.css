@@ -1,7 +1,7 @@
 #purple-text-wrapper{
     padding: 15px;
     border-radius: 5px;
-    background-color: rdb(237,252,177);
+    background-color: rgb(237,252,177);
 }
 
 .purple-text-container{
@@ -9,7 +9,7 @@
     border: 3px solid white;
     box-shadow: 0 0 0 3px rgb(0, 0, 0, 15%);
     color: #ffffff;
-    padding: 5px;
+    padding: 5px 12px;
     border-radius: 5px;
     display:inline-block;
     font-family: 'Roboto', sans-serif;
