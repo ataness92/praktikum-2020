@@ -1,0 +1,15 @@
+.purple-text-container
+
+
+.purple-text-container {
+    background-color: #5544b0;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+
+.purple-text-container + .purple-text-container {
+    margin-left: 5px;
+}
