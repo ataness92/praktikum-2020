@@ -1,0 +1,25 @@
+#white-text-wrapper{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #44cc3f;
+}
+
+#gray-text-wrapper{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #5c615c;
+}
+.label:after {
+    content: '\A  ';
+    white-space: pre;
+    padding: 10px;
+}
+.label {
+    font-size: 2rem;
+}
+.secondary-label {
+    font-size: 1rem;
+}
+.logo-icon {
+    font-size: 3rem;
+}
